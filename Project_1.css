@@ -1,0 +1,33 @@
+body {
+    font-family: serif;
+    background-color: lavender;
+}
+h2, h3, h4 {
+    font-family: serif; 
+    text-align-last: left;
+    color: dimgrey;
+}
+ul, li {
+    color: dimgrey;
+}
+img {
+    border-color: mediumpurple;
+    border-style: groove;
+    
+}
+.about_me {
+    text-indent: 50px;
+    text-align: center;
+    color: black;
+}
+#Additional {
+    border-style: dashed;
+    border-color: firebrick;
+    text-indent: 10px;
+    overflow: auto;
+}
+.army, .nscs {
+    float: right;
+    width: auto;
+    padding: 10px;
+}
